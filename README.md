@@ -2,7 +2,7 @@
 
 -- EPITECH PROJECT --
 
-\\\\ Duration: 6 weeks total //
+\\\\ Duration: 9 weeks total //
 
 Reproduce linux terminal behavior.
 
